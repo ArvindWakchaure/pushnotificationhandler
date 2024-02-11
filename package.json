@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-notificationhandler",
+  "version": "1.0.0",
+  "description": "This plugin handle push notification",
+  "cordova": {
+    "id": "cordova-plugin-notificationhandler",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArvindWakchaure/pushnotificationhandler.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Arvind Wakchaure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArvindWakchaure/pushnotificationhandler/issues"
+  },
+  "homepage": "https://github.com/ArvindWakchaure/pushnotificationhandler#readme"
+}
